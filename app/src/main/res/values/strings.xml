@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">연은</string>
+    <string name="url">https://www.yeaneun.com/app/</string><!-- 앱 실행 시킬 시 보여주는 url 주소를 입력하세요 -->
+    <string name="domain">https://www.yeaneun.com/app/</string><!-- 도메인 주소를 입력하세요 -->
+    <string name="default_notification_channel_id">연은보</string><!-- 채널명 -->
+</resources>

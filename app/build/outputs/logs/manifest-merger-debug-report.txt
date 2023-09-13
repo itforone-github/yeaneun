@@ -1,0 +1,904 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d311d3feb9876ffb22999258b0385284\android-image-cropper-2.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7a8ac3c8211968eef50eef4cfeb40656\databinding-adapters-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\411a6d027f143faff03c4350f2756de4\databinding-runtime-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\775eb733fdfb5c5fadcc4eb1bf3474e0\viewbinding-4.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fdb8d8d93f2b92e8cf675278f0abd46d\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8f63d9c6eab1fc3ec3bd8e994478e6d9\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d8130eddbecd67fe639f004f25cb8a2b\firebase-analytics-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:17:1-61:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0d64858d33d810fe0949d5b91d97a7d8\work-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\057b256e77acc99d4f26ef75e340c8fe\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0fefbe2f2c24ec62cf0ab9ef82cebd3e\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\155910b128c2d350552f6af3705fe77a\play-services-measurement-sdk-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\4b697a1f6c1218471d431bbe408ef47d\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0aff1c42ede987d0bd82e71c860c8acd\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\153c563b54ea2cc758addf4ca82c25b0\firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\217452bc1d9dca6a468b97a0cd92a2aa\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\9d45158002660b96fed1abb12c842a75\play-services-measurement-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f80ae77aefca45c6b7cf943d3bebb285\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\cd2d632f47d1e20d4e37ab620bf2016c\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\09db17e05a2881a6073f135cbba2eadc\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba549b49ba890d64a253a7a522299476\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a85c94b8ee12c846060ae94f43704098\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1ab587e58dbe8aff95a5ef3154543737\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\56f007be747f4999027877fe4e5c5e1d\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\bd1fa9fb92daeeffa1f9ae36f19a22b6\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8913cbc6b4a1982cf279e1f041a8e97b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d82ee48dcf7c6d0426ef9f08be84fc4a\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\50c5dc317753261aa5995a1bc4a0e254\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\78cd7c7be3793513cf1a126f05159136\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba84da7ca7be5c90c17405b623d252c0\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+	package
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:1-104:12
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.CAMERA
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.CAMERA2
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:13:22-63
+permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:17:17-69
+uses-feature#android.hardware.camera
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:20:5-22:35
+	android:required
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:22:9-32
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:21:9-47
+application
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:24:5-103:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fdb8d8d93f2b92e8cf675278f0abd46d\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fdb8d8d93f2b92e8cf675278f0abd46d\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d8130eddbecd67fe639f004f25cb8a2b\firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d8130eddbecd67fe639f004f25cb8a2b\firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\155910b128c2d350552f6af3705fe77a\play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\155910b128c2d350552f6af3705fe77a\play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\4b697a1f6c1218471d431bbe408ef47d\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\4b697a1f6c1218471d431bbe408ef47d\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0aff1c42ede987d0bd82e71c860c8acd\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0aff1c42ede987d0bd82e71c860c8acd\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\217452bc1d9dca6a468b97a0cd92a2aa\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\217452bc1d9dca6a468b97a0cd92a2aa\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\9d45158002660b96fed1abb12c842a75\play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\9d45158002660b96fed1abb12c842a75\play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:28:9-41
+	android:hardwareAccelerated
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:26:9-43
+	android:icon
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:30:9-45
+	android:networkSecurityConfig
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:32:9-69
+	android:usesCleartextTraffic
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:31:9-44
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:34:9-36:54
+	android:resource
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:36:13-51
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:35:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:37:9-39:47
+	android:resource
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:38:13-84
+activity#com.dreamforone.yeaneun.SplashActivity
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:44:9-48:15
+	android:exported
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:45:13-66
+provider#androidx.core.content.FileProvider
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:50:9-60:20
+	android:grantUriPermissions
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:54:13-47
+	android:authorities
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:52:13-71
+	android:exported
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:51:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:57:13-59:54
+	android:resource
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:59:17-51
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:58:17-67
+activity#com.dreamforone.yeaneun.MainActivity
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:62:9-83:20
+	android:launchMode
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:65:13-48
+	android:exported
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:66:13-36
+	android:theme
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:64:13-72
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:63:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:68:13-71:29
+action#android.intent.action.MAIN
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:69:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:70:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:yeaneun.app+data:scheme:yeaneun
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:72:13-81:29
+action#android.intent.action.VIEW
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:73:25-66
+category#android.intent.category.DEFAULT
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:75:27-73
+category#android.intent.category.BROWSABLE
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:76:17-78
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:76:27-75
+data
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:78:17-80:48
+	android:host
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:79:21-47
+	android:scheme
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:80:21-45
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:85:9-87:58
+	android:exported
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:86:13-36
+	android:theme
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:87:13-56
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:85:19-82
+service#com.dreamforone.yeaneun.MyFirebaseMessagingService
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:90:9-99:19
+	android:enabled
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:93:13-35
+	android:exported
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:94:13-36
+	android:stopWithTask
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:92:13-41
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:91:13-55
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:96:13-98:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:97:17-78
+	android:name
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml:97:25-75
+uses-sdk
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d311d3feb9876ffb22999258b0385284\android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.8.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d311d3feb9876ffb22999258b0385284\android-image-cropper-2.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7a8ac3c8211968eef50eef4cfeb40656\databinding-adapters-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7a8ac3c8211968eef50eef4cfeb40656\databinding-adapters-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\411a6d027f143faff03c4350f2756de4\databinding-runtime-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\411a6d027f143faff03c4350f2756de4\databinding-runtime-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\775eb733fdfb5c5fadcc4eb1bf3474e0\viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\775eb733fdfb5c5fadcc4eb1bf3474e0\viewbinding-4.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fdb8d8d93f2b92e8cf675278f0abd46d\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fdb8d8d93f2b92e8cf675278f0abd46d\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\da1ac001e035f87a29cc2da2e6f08efd\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8f63d9c6eab1fc3ec3bd8e994478e6d9\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8f63d9c6eab1fc3ec3bd8e994478e6d9\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8c06ddd65e8444707ea2f45592fb95fe\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d8130eddbecd67fe639f004f25cb8a2b\firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d8130eddbecd67fe639f004f25cb8a2b\firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0d64858d33d810fe0949d5b91d97a7d8\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0d64858d33d810fe0949d5b91d97a7d8\work-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\057b256e77acc99d4f26ef75e340c8fe\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\057b256e77acc99d4f26ef75e340c8fe\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0fefbe2f2c24ec62cf0ab9ef82cebd3e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0fefbe2f2c24ec62cf0ab9ef82cebd3e\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c48274ca9c7916920773a90d1ecacef4\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\5d723b9ea2a3e9ad865b5d34e83c4810\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\155910b128c2d350552f6af3705fe77a\play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\155910b128c2d350552f6af3705fe77a\play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\4b697a1f6c1218471d431bbe408ef47d\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\4b697a1f6c1218471d431bbe408ef47d\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0aff1c42ede987d0bd82e71c860c8acd\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0aff1c42ede987d0bd82e71c860c8acd\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\153c563b54ea2cc758addf4ca82c25b0\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\153c563b54ea2cc758addf4ca82c25b0\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\217452bc1d9dca6a468b97a0cd92a2aa\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\217452bc1d9dca6a468b97a0cd92a2aa\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c62a6207c0737af357ee6f9f9239fc06\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\9d45158002660b96fed1abb12c842a75\play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\9d45158002660b96fed1abb12c842a75\play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f80ae77aefca45c6b7cf943d3bebb285\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f80ae77aefca45c6b7cf943d3bebb285\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\cd2d632f47d1e20d4e37ab620bf2016c\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\cd2d632f47d1e20d4e37ab620bf2016c\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d5a3002fc0cff364ed08157156171c1c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\e5f242ec43d99bcd54e53a78a4f96253\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a56f4035730a92ea4a7b3fccb4b1d457\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ebef8c97c826d4a1ee14b3ba3d1fe2a3\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\68057359e27bbdd06bf2480458ce7f3f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\fabe640f9e5e527e1b12fa42a9b2f07a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c6ae507bfbbbc7cadc9d1fa18b37d46f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\09db17e05a2881a6073f135cbba2eadc\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\09db17e05a2881a6073f135cbba2eadc\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\6f7dcb6a18c635161723fcc4cde38773\firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0331a2723e21d1b00f24d3ef54f554cf\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\c3cd4191ace0436612f546d256538292\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\30c8d6d01f63d1802f1d42d5231fab69\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f88ab4bd85c8737598ab7cbd3e71c215\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba549b49ba890d64a253a7a522299476\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba549b49ba890d64a253a7a522299476\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\b650020d6ea2a6451544857486e8da90\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0563e7c72107f29a753508d02feb2e6a\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\850d459b47c649b6a272c9b5acd01877\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a85c94b8ee12c846060ae94f43704098\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a85c94b8ee12c846060ae94f43704098\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1ab587e58dbe8aff95a5ef3154543737\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1ab587e58dbe8aff95a5ef3154543737\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\56f007be747f4999027877fe4e5c5e1d\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\56f007be747f4999027877fe4e5c5e1d\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\bd1fa9fb92daeeffa1f9ae36f19a22b6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\bd1fa9fb92daeeffa1f9ae36f19a22b6\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8913cbc6b4a1982cf279e1f041a8e97b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8913cbc6b4a1982cf279e1f041a8e97b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d82ee48dcf7c6d0426ef9f08be84fc4a\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d82ee48dcf7c6d0426ef9f08be84fc4a\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\95845392fc02f66a0c202dabf7818a57\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\f321dc6de199ac139f8a0802c11749c9\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\2951fc92df0b0491504555b9bee91436\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\50c5dc317753261aa5995a1bc4a0e254\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\50c5dc317753261aa5995a1bc4a0e254\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\78cd7c7be3793513cf1a126f05159136\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\78cd7c7be3793513cf1a126f05159136\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\7fd04d136f76c1c87da587dae49cc250\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\8365f62f7fa44db4154021b6a97405c2\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba84da7ca7be5c90c17405b623d252c0\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\ba84da7ca7be5c90c17405b623d252c0\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android\yeaneun\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\219cbc6abc38b2b842178e6c36c059d0\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:45:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:53:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0b5ab3fa1f12094013d979d05038bf31\firebase-messaging-23.0.4\AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.3] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1603667e73d822fc03060d41320f2973\firebase-datatransport-18.1.3\AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a08109adebb7bdb862a02ccc702009ba\transport-backend-cct-3.1.4\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.4] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\014d8d9f46a86845dacf160edaa4e4ef\transport-runtime-3.1.4\AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\392ae52dcab52c503375230d11535e74\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\47e366a399a613dd5b861ca79fd9cdb2\play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\eaa352a4854c40a423a215c8aeda582b\play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d39ba80540ae8ae74015076cc8919577\firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\990989a392a48a6488d95cbe860ce287\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\be9dc665174c3c39e1bb9a556095d6ce\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a0f7368886696b07e28417b93fc1ed27\play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\d3fb9cf23525604925fb866b4ac652ac\play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\1f91ee5b280ba20af3a8e8ce73cc2172\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\0223216db61295f1b21f1683cdc7dce3\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\a8e25aa63a1410ca2ce6a9ac4124e829\work-runtime-2.7.0\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\kimna\.gradle\caches\transforms-2\files-2.1\3dd46887cdf357190c4058e5161de63f\room-runtime-2.2.5\AndroidManifest.xml:26:13-74
